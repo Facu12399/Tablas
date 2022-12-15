@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#principal {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#A {
+    padding-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+header, section, footer{
+    background-color: red;
+    padding: 10px;
+}
+
+section h2, section p, section table{
+    padding:10px;
+}
+
+caption{
+    border: 3px solid black;
+    background-color: yellow;
+}
+
+#TH{
+    border: 3px solid black;
+    background-color: yellow;
+}
+
+
+table, table tr th, table tr td{
+    background-color: blue;
+    border: 2px solid black;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+section tr td {
+    background-color: indianred;
+}
+
+footer{
+    text-align: center;
+}
+
+
+
